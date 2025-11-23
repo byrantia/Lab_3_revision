@@ -1,4 +1,5 @@
 import Lab_2_revision.bmi as bmi
+#pycache file is a folder tht python auto create that stores comiple byte code and make ur code run faster
 
 def test_bmi_normal_weight():
     #arrange
