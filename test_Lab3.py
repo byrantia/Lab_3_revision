@@ -19,7 +19,7 @@ def test_bubble_sort_descending():
 
     result = Lab3.bubble_sort(input_arr, Lab3.SORT_DESCENDING)
 
-    assert (result == test_arr)
+    assert (result == test_arr) #returns a Boolean value True of False of the condition asserted or checked is True or False
 
 def test_bubble_sort_invalid():
     result = []
